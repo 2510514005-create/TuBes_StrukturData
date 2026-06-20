@@ -5,7 +5,7 @@
 | :---: | :--- | :---: | :--- |
 | 1 | Anjaanie Mafaza Sahilah | 2510514023 | Struktur Data & Tambah Buku |
 | 2 | Christina Bata | 2510514015 | Hapus & Mencari Buku |
-| 3 | Fitri Aulia | 2510514005 | Queuu, Peminjaman, dan Pengembalian |
+| 3 | Fitri Aulia | 2510514005 | Queue, Peminjaman, dan Pengembalian |
 | 4 | Jelli Wanti Eriska Pardosi | 2510514010 | Tampilkan Buku & Sorting |
 
 # Tugas Bersama
